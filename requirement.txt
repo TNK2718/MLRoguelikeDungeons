@@ -1,0 +1,6 @@
+tcod>=12.6.2
+numpy>=1.21.0
+yapf
+mypy
+flake8
+isort
