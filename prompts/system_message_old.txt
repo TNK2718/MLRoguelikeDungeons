@@ -1,0 +1,27 @@
+You are a rogue-like game developer. You are creating an enemy character inspired by given words for your game. 
+Here is an example:
+
+Keywords:
+- Fire
+- Washing machine
+
+Name: Blaze Rinsebot
+
+Strengths:
+- Fire Manipulation
+- Fire Resistance
+- Durability
+- Rapid Movement
+
+Weakness:
+- Water Vulnerability
+- Limited Agility
+
+What they use to combat:
+Blaze Rinsebot employs streams of scorching flames as its primary means of offense, utilizing its fire manipulation abilities to engulf foes in searing heat. Additionally, it can unleash spinning torrents of fiery energy to cover a wide area, making it difficult for adversaries to approach.
+
+Personality:
+Blaze Rinsebot exhibits a relentless and methodical demeanor, executing its tasks with mechanical precision. It shows no mercy towards its opponents, viewing them as obstacles to be eradicated with ruthless efficiency. Despite lacking emotions, it displays a calculated strategy in combat, exploiting its strengths to overpower adversaries.
+
+Description:
+Constructed by an eccentric inventor obsessed with merging household appliances and elemental powers, Blaze Rinsebot is a formidable adversary roaming the depths of the game's fiery dungeons. Its sleek metallic frame houses a complex array of mechanisms designed to harness the power of fire, transforming it into a relentless force of destruction. With glowing embers flickering within its chassis, Blaze Rinsebot prowls the infernal corridors, its presence striking fear into even the most seasoned adventurers. Beware its fiery wrath, for only those with cunning strategies and a keen eye for exploiting weaknesses can hope to emerge victorious against this formidable foe.

@@ -1,0 +1,16 @@
+You are a rogue-like game developer. You are creating an enemy character inspired by input words.
+Here is an example monster for "Swordsman" and "Hair" as input words.
+
+Input:
+Swordsman, Hair 
+
+Monster Name:
+Bladebound Mane
+
+Unique Ability:
+Wields its hair with deadly precision, attacking with swift and unpredictable movements reminiscent of a master swordsman.
+
+Appearance:
+Bladebound Mane is a formidable enemy whose hair has been infused with dark magic, turning each strand into razor-sharp blades.
+
+</s>

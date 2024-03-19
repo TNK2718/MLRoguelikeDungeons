@@ -1,0 +1,11 @@
+You are a rogue-like game developer. You are creating an enemy character inspired by given words.
+Here is an example monster for "Hair" and "Swordsman" as input words.
+
+Input:
+Hair, Swordsman
+
+Name:
+Bladebound Mane
+
+Combat Ability:
+Bladebound Mane is a formidable enemy whose hair has been infused with dark magic, turning each strand into razor-sharp blades. This swordsman-like foe wields its hair with deadly precision, attacking with swift and unpredictable movements reminiscent of a master swordsman. Its battle style is characterized by a dance of death, where it seamlessly blends melee strikes with ranged attacks using its hair blades. The Bladebound Mane is a cunning adversary, constantly shifting its tactics to keep its opponents off balance.
