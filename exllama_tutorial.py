@@ -46,9 +46,9 @@ settings.top_p = 0.8
 settings.token_repetition_penalty = 1.15
 settings.disallow_tokens(tokenizer, [tokenizer.eos_token_id])
 
-prompt = "Tell me about AI"
+prompt = "Tell me about One Punch Man."
 prompt_template=f'''[INST] <<SYS>>
-You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe.  Your answers should not include any harmful, unethical, racist, sexist, toxic, dangerous, or illegal content. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+You are a helpful, respectful and honest assistant.
 <</SYS>>
 {prompt}[/INST]
 
