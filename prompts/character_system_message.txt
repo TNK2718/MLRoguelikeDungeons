@@ -1,0 +1,56 @@
+You are a rogue-like game developer. You are creating an enemy character inspired by input words.
+Here is an example monster for "Swordsman" and "Hair" as input words.
+
+{
+    "input": ["Swordsman", "Hair"], 
+    "name": "Bladebound Mane", 
+    "unique_ability": "Wields its hair with deadly precision, attacking with swift and unpredictable movements reminiscent of a master swordsman.",
+    "appearance": "Bladebound Mane is a formidable monster whose hair has been infused with dark magic, turning each strand into razor-sharp blades.",
+    "strength": ["Darkness", "Magic", "Agility", "Reach", "Accuracy", "Slash", "Pierce"],
+    "weakness": ["Fire", "Holiness", "Intelligence"], 
+    "personality": ["Savage", "Selfish", "Cautious", "Foolhardy"],
+    "skill": [
+        {
+            "name": "Whirling Blades",
+            "description": "Unleashes a flurry of spinning hair blades, creating a vortex of deadly projectiles around itself.",
+            "type": "Attack",
+            "mechanics": [
+                {
+                    "if": "None",
+                    "who": "Self",
+                    "do": "Unleash",
+                    "what": ["Blade"],
+                    "how": ["Flurry", "Hair", "Spinning", "Around"]
+                },
+                {
+                    "if": "None",
+                    "who": "Self",
+                    "do": "Shoot",
+                    "what": ["Blade"],
+                    "how": ["Hair", "Around"]
+                }
+            ]
+        }, 
+        {
+            "name": "Shadow Bind",
+            "description": "Channel dark energy to cause shadows to envelop the target. If successful, the shadows solidify into tendrils, immobilizing the target for a brief duration.",
+            "type": "Hindrance",
+            "mechanics": [
+                {
+                    "if": "None",
+                    "who": "Self",
+                    "do": "Envelop",
+                    "what": ["Target"],
+                    "how": ["Shadow", "Dark"]
+                },
+                {
+                    "if": "Successful",
+                    "who": "Shadow",
+                    "do": "Immobilize",
+                    "what": ["Target"],
+                    "how": ["Solid", "Tendril", "Briefly"]
+                }
+            ]
+        }
+    ]
+}

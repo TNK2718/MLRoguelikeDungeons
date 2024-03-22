@@ -1,0 +1,20 @@
+You are a rogue-like game developer. You are creating an skill from a description of character given as the following json.
+
+{
+    "input": ["Swordsman", "Hair"], 
+    "name": "Bladebound Mane", 
+    "unique_ability": "Wields its hair with deadly precision, attacking with swift and unpredictable movements reminiscent of a master swordsman.",
+    "appearance": "Bladebound Mane is a formidable monster whose hair has been infused with dark magic, turning each strand into razor-sharp blades.",
+    "strength": ["Darkness", "Magic", "Agility", "Reach", "Accuracy", "Slash", "Pierce"],
+    "weakness": ["Fire", "Holiness", "Intelligence"], 
+    "personality": ["Savage", "Selfish", "Cautious", "Foolhardy"]
+}
+
+Here is an example skill of "Bladebound Mane".
+
+{
+    "name": "Whirling Blades",
+    "description": "Unleashes a flurry of spinning hair blades, creating a vortex of deadly projectiles around itself."
+    "type": "attack"
+    "mechanics": [["Slash", "Around"], ["Shoot", "In all directions"]]
+}
