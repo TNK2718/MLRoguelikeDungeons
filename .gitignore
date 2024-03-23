@@ -131,3 +131,6 @@ dmypy.json
 # Model Files
 *.gguf
 *.bin
+
+# tcod
+*.sav

@@ -1,2 +1,2 @@
 # MLRoguelikeDungeons
-Test for LLM-powered character mechanics/AI generation
+LLM-powered character-mechanics/character-AI generation for roguelikes.
